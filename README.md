@@ -9,7 +9,7 @@ This project leverages **Machine Learning techniques** to predict salaries based
     - `salary_prediction_model.pkl`  # Machine learning model
     - `job_titles.pkl`       # Encoded job titles
     - `feature_columns.pkl`   # Saved feature columns
-_ **Raw Data CSV File** #Raw Dataset used for prediction
+- **Raw Data CSV File** #Raw Dataset used for prediction
 - **Screenshot** #Screenshot of Streamlit app
 
 ## Installation
